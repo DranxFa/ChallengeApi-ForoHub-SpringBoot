@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-Finished-brightgreen?style=for-the-badge"> &nbsp;
-  <img src="https://img.shields.io/badge/GOAL-Self%20Learning-blue?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"> &nbsp; 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> &nbsp; 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Database"> &nbsp;
